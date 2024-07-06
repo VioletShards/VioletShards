@@ -1,10 +1,10 @@
-# Hi, I'm VioletShards! 👋
+# Hi, I'm VioletShards! ✨
 
 I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination with technology and a love for the arts. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![VioletShards's Stats](https://github-readme-stats.vercel.app/api?username=VioletShards&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## 🪄 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at UNICAF University.
 <!--- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
@@ -15,7 +15,7 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)--->
 
 
-## Tech Stack
+## 🔧 Tech Stack ⚙️
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,js,cpp&theme=dark" />
@@ -41,7 +41,7 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev) --->
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ☄️
 
 
 
