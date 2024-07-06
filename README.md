@@ -2,7 +2,7 @@
 
 I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination with technology and a love for the arts. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![VioletShards's Stats](https://github-readme-stats.vercel.app/api?username=VioletShards&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![VioletShards's Stats](https://github-readme-stats.vercel.app/api?username=VioletShards&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🪄 About Me
 
