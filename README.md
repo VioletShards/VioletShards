@@ -41,7 +41,7 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev) --->
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. ☄️
+Thanks for stopping by! Looking forward to learning and growing as Computer Scientists☄️
 
 
 
