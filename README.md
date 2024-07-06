@@ -16,7 +16,7 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
 
 
 ## Tech Stack
-[![My Skills]<p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,js,cpp&theme=dark" />
   </a>
