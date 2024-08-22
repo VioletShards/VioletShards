@@ -18,7 +18,7 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
 ## 🔧 Tech Stack ⚙️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,js,cpp,css,flask,html&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,py,js,cpp,css,flask,html,bootstrap,postgres&theme=dark" />
   </a>
 </p>
 
