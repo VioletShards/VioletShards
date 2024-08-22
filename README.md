@@ -22,26 +22,32 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
   </a>
 </p>
 
-<!--- ## 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Styling with CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+<!---## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.--->
 
 
-## 📬 Get in Touch
+<!---## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev) --->
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)--->
 
 Thanks for stopping by! Looking forward to learning and growing as Computer Scientist☄️
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VioletShards/VioletShards/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VioletShards/VioletShards/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VioletShards/VioletShards/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
