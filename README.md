@@ -43,13 +43,6 @@ I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination
 
 Thanks for stopping by! Looking forward to learning and growing as Computer Scientist☄️
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VioletShards/VioletShards/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VioletShards/VioletShards/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VioletShards/VioletShards/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
 
 <!--
 
