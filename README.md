@@ -1,12 +1,12 @@
 # Hi, I'm VioletShards! ✨
 
-I am a passionate Bs.c. CS student at UNICAF University, driven by a fascination with technology and a love for the arts. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate software developer, driven by a fascination with technology and a love for the arts. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![VioletShards's Stats](https://github-readme-stats.vercel.app/api?username=VioletShards&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🪄 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at UNICAF University.
+- 🔭 Conpleted a Bachelor's in Computer Science.
 <!--- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
